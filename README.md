@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @yanFajR
+- 👋 Hi, I’m @yanFajR, I'm a student at Gadjah Mada University.
 - 👀 I’m interested in internet technology, backend stuff, devops stuff, and linux.
 - 📫 How to reach me imryanfajri@gmail.com (email)
+- 🌱 I’m currently learning cloud computing (gcp, azure) and linux
 
-<!---
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-yanFajR/yanFajR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My LinkedIn Account [LinkedIn](https://www.linkedin.com/in/ryan-fajri/).
